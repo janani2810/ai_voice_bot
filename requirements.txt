@@ -1,0 +1,4 @@
+sarvamai
+sounddevice
+soundfile
+numpy
